@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Eddy Ejembi
-- 👀 I’m interested in Data Science, Data Analytics & Machine Learning
+- 👀 I’m interested in Data Science, Data Analytics, Machine Learning & Artificial Intelligence
 - 🌱 I’m currently learning Deep Learning
 - 💞️ I’m looking to collaborate on Artificial Intelligence & Machine Learning
 - 📫 How to reach me eddyejembi2018@gmail.com
