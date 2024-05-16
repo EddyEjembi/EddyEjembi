@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Eddy Ejembi
-- 👀 I’m interested in Data Science, Data Analytics, Machine Learning, IoT & Artificial Intelligence
-- 🌱 I’m currently learning MLops and Reinforcement Learning
+- 👀 I’m interested in Data Science, Machine Learning, IoT & Artificial Intelligence
+- 🌱 I’m currently learning MLops and Deep Reinforcement Learning
 - ✍🏾 I do write on [Medium](https://medium.com/@eddyejembi) some times
 - 📝 I make research on [Academia](https://fupre.academia.edu/EddyEjembi)
 - 💞️ I’m looking to collaborate on Artificial Intelligence & Machine Learning
